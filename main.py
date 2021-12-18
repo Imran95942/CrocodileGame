@@ -5,7 +5,7 @@ from config import BOT_TOKEN
 from config import SUDO_USERS
 
 updater = Updater(
-    token=BOT_TOKEN,
+    token=1951787106:AAFbVL0eaJha8luz8IjPa8xBaftpoztWBU4,
     defaults=Defaults(
         parse_mode='HTML',
         disable_web_page_preview=True,
